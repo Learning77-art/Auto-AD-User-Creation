@@ -22,3 +22,9 @@ Before running this script, ensure you have the following:
 
   ```powershell
   Install-WindowsFeature RSAT-AD-PowerShell
+
+  Watch the Video
+For a complete walkthrough of the Auto-AD-User-Creation script, watch the video tutorial here:
+https://www.youtube.com/watch?v=e169AkxqJ3M
+
+
